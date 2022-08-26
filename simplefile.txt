@@ -1,5 +1,5 @@
-line every
+line every(change on line1)
 line good
-line boy
+line boy(change on line 3)
 line deserves
 line favor
